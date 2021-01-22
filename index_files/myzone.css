@@ -32,13 +32,13 @@
 
     #logo {
         display: block;
-        width: 486px;
-        height: 100px;
+        width: 569px;
+        height: 86px;
         background: transparent;
     }
     #logo img{
-        width: 486px;
-        height:100px;
+        width: 569px;
+        height:86px;
     }
 
     #logo span { display: none; }
